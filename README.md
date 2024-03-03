@@ -5,10 +5,10 @@ The Minimum Cost Method is a technique employed in optimization problems, specif
 The primary goal of the Minimum Cost Method is to find an initial feasible solution by iteratively selecting the lowest cost cells in a cost matrix. These cells represent the optimal assignments between suppliers and demanders in a transportation or assignment problem.
 
 ## Features
--Cell Assignments: Assigns costs to cells in the transportation matrix.
--Supply and Demand Assignment: Takes user input for supply and demand quantities.
--Optimal Assignments: Finds optimal assignments using the Minimum Cost Method.
--Error Handling: Includes error handling to ensure valid user inputs for cost values.
+ - Cell Assignments: Assigns costs to cells in the transportation matrix.
+ - Supply and Demand Assignment: Takes user input for supply and demand quantities.
+ - Optimal Assignments: Finds optimal assignments using the Minimum Cost Method.
+ - Error Handling: Includes error handling to ensure valid user inputs for cost values.
 
 ## Usage
 1. Enter the number of suppliers and demanders.
